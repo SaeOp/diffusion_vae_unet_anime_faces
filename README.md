@@ -31,6 +31,9 @@ The project uses a custom Variational Autoencoder (VAE) to compress images into 
 - KaggleHub
 - Matplotlib
 
+## Dataset
+https://www.kaggle.com/datasets/subinium/highresolution-anime-face-dataset-512x512/data
+
 ## Goal
 
 The main goal of this project is to explore how latent diffusion models work by building a simplified image generation system from scratch, without relying on ready-made Stable Diffusion pipelines.
